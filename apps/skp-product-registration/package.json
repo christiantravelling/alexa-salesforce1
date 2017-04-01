@@ -1,0 +1,24 @@
+{
+    "name": "product-registration-skill",
+    "version": "1.0.0",
+    "description": "This Skill will register Products in Salesforce",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "alexa",
+        "marketing",
+        "cloud",
+        "iot",
+        "cloud",
+        "product",
+        "registration"
+    ],
+    "author": "Sanjay Pradhan",
+    "license": "ISC",
+    "dependencies": {
+        "alexa-app": "^2.3.4",
+        "nforce": "^1.6.0"
+    }
+}

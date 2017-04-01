@@ -1,0 +1,1 @@
+curl -H "Origin: http://ask-ifr-download.s3.amazonaws.com" --verbose https://s3-eu-west-1.amazonaws.com/smc-s3-images/images/salesforce-logo.png
