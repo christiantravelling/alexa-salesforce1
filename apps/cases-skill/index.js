@@ -11,10 +11,10 @@ var subject;
 var priority;
 
 // saleforce log in details
-var SF_CLIENT_ID = '3MVG99OxTyEMCQ3gpLbNrfR_7CPi4qJaodVDpvY5AHDNm8OKbCJLuGselI19gdyRdf.MDaivybiAmZ5cu.7fe';
-var SF_CLIENT_SECRET = '4024960190951116854';
-var SF_USERNAME = 'simon.cook@innovate.ul';
-var SF_PASSWORD = 'salesforce1';
+var SF_CLIENT_ID = 'xxx';
+var SF_CLIENT_SECRET = 'xxx';
+var SF_USERNAME = 'a@abc.com';
+var SF_PASSWORD = 'xxx';
 var SF_CALLBACK_URL = 'http://localhost:3000/oauth/_callback';
 
 var org = nforce.createConnection({
